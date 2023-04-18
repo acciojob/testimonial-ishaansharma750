@@ -2,17 +2,30 @@
 .contain
 {
 	background-color:#f5f5f5;
+	padding-top:30px;
+	padding-bottom:20px;
+
+}
+.head{
+	padding-left:30px;
+	padding-bottom:0px;
 }
 .one
 {
-	font-color:black;
+	font-color: black;
 	background-color:white;
-	border: 1px black;
-	padding:5px;
-	margin:50px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom:10px;
+	padding-top:5px;
+	margin:30px;
 	border:1px black;
+	padding-bottom:1px;
+
+
 }
 .author{
 	fort-style:italic;
 	text-align:right;
+	
 }
